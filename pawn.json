@@ -7,6 +7,7 @@
 	"dependencies": [
 		"sampctl/samp-stdlib",
 		"Awsomedude/easyDialog",
+		"pawn-lang/YSI-Includes@5.x",
 		"ScavengeSurvive/container",
 		"ScavengeSurvive/inventory-dialog",
 		"Southclaws/zcmd"

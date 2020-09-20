@@ -3,5 +3,5 @@
 // To update the version number for a new release, run "sampctl package release"
 
 #define CONTAINER_DIALOG_VERSION_MAJOR (1)
-#define CONTAINER_DIALOG_VERSION_MINOR (8)
-#define CONTAINER_DIALOG_VERSION_PATCH (1)
+#define CONTAINER_DIALOG_VERSION_MINOR (9)
+#define CONTAINER_DIALOG_VERSION_PATCH (0)
